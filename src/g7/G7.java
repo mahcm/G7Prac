@@ -17,7 +17,7 @@ public class G7 {
     public static void main(String[] args) {
         System.out.print("LUL");
         System.out.print("OMEGALUL");
-        System.out.print("Kekk");
+        System.out.print("PepeHands");
     }
     
 }
